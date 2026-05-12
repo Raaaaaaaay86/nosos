@@ -1,6 +1,12 @@
-# nosos
+<h1 align="center"> nosos </h1>
 
-`nosos` 為 nos 生態系提供作業系統層級的工具函式。目前包含 `GracefulShutdown`——一個阻塞至程序收到終止信號後、在可設定期限內執行使用者提供的清理函式的輔助工具。
+<p>
+nosos 為 nos 生態系提供作業系統層級的工具函式。目前包含 GracefulShutdown——一個阻塞至程序收到終止信號後、在可設定期限內執行使用者提供的清理函式的輔助工具。
+</p>
+
+<p align="center">
+  <a href="README.md">English</a>
+</p>
 
 ## 安裝
 

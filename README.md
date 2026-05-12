@@ -1,8 +1,14 @@
-# nosos
+<h1 align="center"> nosos </h1>
 
-`nosos` provides OS-level utilities for the nos ecosystem. Currently it ships `GracefulShutdown`, a helper that blocks until the process receives a termination signal and then calls a user-supplied cleanup function within a configurable deadline.
+<p>
+nosos provides OS-level utilities for the nos ecosystem. Currently it ships GracefulShutdown, a helper that blocks until the process receives a termination signal and then calls a user-supplied cleanup function within a configurable deadline.
+</p>
 
-## Installation
+<p align="center">
+  <a href="README.zh-TW.md">中文</a>
+</p>
+
+## Install
 
 ```bash
 go get github.com/raaaaaaaay86/nosos
